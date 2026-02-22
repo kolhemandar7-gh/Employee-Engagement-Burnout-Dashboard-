@@ -8,7 +8,7 @@ click
 colorama
 contourpy
 cycler
-dlib @ file:///C:/Users/vci/Downloads/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
+dlib
 et_xmlfile
 face-recognition
 face_recognition_models
@@ -64,3 +64,4 @@ urllib3
 uv
 watchdog
 Werkzeug
+
